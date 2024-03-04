@@ -1,0 +1,32 @@
+{
+  "name": "lilopa",
+  "version": "1.0.0",
+  "description": "Little Options Parser and Analyzer for Node.js command-line applications",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gambriganOrta/lilopa"
+  },
+  "keywords": [
+    "command-line",
+    "options",
+    "parser",
+    "analyzer"
+  ],
+  "author": "gambriganOrta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gambriganOrta/lilopa/issues"
+  },
+  "homepage": "https://github.com/gambriganOrta/lilopa",
+  "dependencies": {
+    "commander": "^8.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3",
+    "chai": "^4.3.4"
+  }
+}
